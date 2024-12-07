@@ -356,7 +356,7 @@ button.about-button a:hover {
 
 /* Heading size */
 .highlight-content h1 {
-    font-size: 3rem; /* Set a large size for the heading */
+    font-size: 2rem; /* Set a large size for the heading */
     font-weight: bold;
     margin-bottom: 1rem; /* Adds space below the heading */
 }
